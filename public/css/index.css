@@ -1,0 +1,88 @@
+body {
+  background-image: linear-gradient(to right, #ff512f, #dd2476);
+  padding: 0;
+  margin: 0;
+}
+.nav-bar {
+  display: flex;
+}
+.main-heading {
+  padding: 0 19px;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+.nav-bar-right-info {
+  margin-left: 65%;
+  padding: 25px 0;
+}
+.nav-bar-contents {
+  display: flex;
+}
+.nav-bar-items {
+  padding: 10px 13px;
+  color: white;
+  font-size: large;
+}
+.nav-bar-items:hover {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+.container {
+  padding-left: 50px;
+  padding-top: 20px;
+  background-color: white;
+  height: 500px;
+  margin-left: 100px;
+  width: 565px;
+  border-radius: 10px;
+}
+.email-button,
+password-button {
+  padding: 10px 5px;
+}
+.button-format {
+  padding: 22px 5px;
+}
+.submit-button {
+  margin-top: 30px;
+}
+.submit-button-inner {
+  height: 46px;
+  width: 430px;
+  border-radius: 28px;
+  background-image: linear-gradient(to right, #ff512f, #dd2476);
+  color: white;
+}
+.check-box {
+  padding: 15px 0;
+}
+#email,
+#password {
+  height: 46px;
+  width: 430px;
+  border-radius: 20px;
+  text-align: center;
+}
+.footer-buttons{
+  display: flex;
+ 
+}
+.direct-login-button{
+  padding: 20px 25px;
+  
+}
+.footer-inner-css-button{
+  height: 40px;
+  width: 178px;
+  border-radius: 20px;
+  
+}
+.footer-button-text{
+  text-decoration: none;
+  color: black;
+  
+ 
+}
+.inner-image{
+  float: left;
+}
